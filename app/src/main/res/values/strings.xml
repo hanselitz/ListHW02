@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea 02</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">Agregar Empresas</string>
+    <string name="title_activity_view">Lista de Empresas</string>
+    <string name="title_activity_list_item">Lista</string>
+
+</resources>
